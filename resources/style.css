@@ -22,3 +22,45 @@ h1 {
   font-weight: bold;
   color: white;
 }
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+#design{
+  color: white;
+  background-image: url("images/the-flatiron-building.png");
+}
+
+footer {
+  color: white;
+  background-color: dimgray;
+  font-size: 11px;
+  text-align: left;
+  display: flex;
+  flex-direction: row;
+}
+
+footer nav ul {
+  list-style-type: none;
+  display: inline-block;
+}
+
+footer nav li{
+  float: left;
+  padding: 4px;
+}
+
+footer nav li a {
+  color: white;
+}
