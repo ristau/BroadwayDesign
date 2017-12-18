@@ -51,16 +51,6 @@ footer {
   flex-direction: row;
 }
 
-footer nav ul {
-  list-style-type: none;
-  display: inline-block;
-}
-
-footer nav li{
-  float: left;
-  padding: 4px;
-}
-
-footer nav li a {
-  color: white;
+footer a {
+  color: white; 
 }
